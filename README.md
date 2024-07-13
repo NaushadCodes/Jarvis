@@ -1,19 +1,33 @@
 =>LIBRARIES USED 
+    
     1 speech_recognition 
+    
     2 webbrowser 
+    
     3 pyttsx3 
+    
     4 musicLibrary 
+    
     5 requests 
+    
     6 openai 
+    
     7 gTTS 
+    
     8 pygame 
+    
     9 os
 
 =>FEATURES 
+    
     1 Voice Recognition 
+    
     2 Utilizes the speech_recognition library to listen for and recognize voice commands. 
+    
     3 Activates upon detecting the wake word "Jarvis." 
+    
     4 Converts text to speech using pyttsx3 for local conversion. 
+    
     5 Uses gTTS (Google Text-to-Speech) and pygame for playback. 
     
     6 Web Browsing. 
